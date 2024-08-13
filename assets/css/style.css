@@ -277,7 +277,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #2f312fb0;}
     content: " ";
     top: 0;
     left:  0;   
-    width: 109%;
+    width: 101.99%;
     height:  100%;
     background: rgba(47, 49, 60, 0.3);
 }
@@ -292,7 +292,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #2f312fb0;}
     position: absolute;
     bottom: 0;
     left: 0;
-    width: 109%;
+    width: 102.2%;
     height: 90px;
     background: #3f4254;
 }
@@ -323,13 +323,12 @@ nav.navbar.bootsnav .navbar-toggle i{color: #2f312fb0;}
 /*.ab-list-icon */
 
 /*.single-about-img */
-
 /*-------------------------------------
         5. Skill Section starts
 --------------------------------------*/
 
 .skills-section {
-    max-width: 1200px;
+    max-width: 1500px;
     margin: 50px auto;
     padding: 20px;
     text-align: center;
@@ -351,8 +350,8 @@ nav.navbar.bootsnav .navbar-toggle i{color: #2f312fb0;}
     background-color: #ffffff;
     border: 1px solid #ddd;
     border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    width: 300px;
+    box-shadow: 0 4px 8px rgba(48, 47, 47, 0.1);
+    width: 400px;
     padding: 20px;
     text-align: left;
 }
@@ -371,11 +370,9 @@ nav.navbar.bootsnav .navbar-toggle i{color: #2f312fb0;}
         Skills Section Ends
 --------------------------------------*/
 
-
 /*-------------------------------------
         5.  Education
 --------------------------------------*/
-
 .education {
     background:  #f9fbfd;
     padding-top:  50px;
@@ -390,7 +387,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #2f312fb0;}
 .single-horizontal-timeline .experience-time h3{text-transform: capitalize;}
 .single-horizontal-timeline .experience-time h3 span{text-transform:lowercase;}
 .single-horizontal-timeline .timeline-content h5 {margin: 15px 0;}
-.single-horizontal-timeline p {color: #3f4254;max-width: 335px;}
+.single-horizontal-timeline p {color: #999fb3;max-width: 335px;}
 
 /*.timeline-horizontal-border*/
 .timeline-horizontal-border {
@@ -400,7 +397,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #2f312fb0;}
 }
 .timeline-horizontal-border i {
     font-size:  10px;
-    color: #1b1d22;
+    color: #d92cf9;
     margin-right:  5px;
 }
 span.single-timeline-horizontal {
